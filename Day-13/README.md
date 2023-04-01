@@ -8,4 +8,4 @@
 ## Exercises
 - [Exercise 1](https://github.com/Abdirashid-dv/100Days-of-code-python/tree/master/Day-13/Exercise-1-Debugging-OddorEven): Debugging Odd or Even
 - [Exercise 2](https://github.com/Abdirashid-dv/100Days-of-code-python/tree/master/Day-13/Exercise-2-Debugging-Leap-Year): Debugging Leap Year
-- [Exercise 3](https://github.com/phillipai/100-days-of-code-python/tree/main/day13/Exercise%203%20-%20Debugging%20FizzBuzz): Debugging FizzBuzz
+- [Exercise 3](https://github.com/Abdirashid-dv/100Days-of-code-python/tree/master/Day-13/Exercise-3-Debugging-FizzBuzz): Debugging FizzBuzz
